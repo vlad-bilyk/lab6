@@ -1,4 +1,4 @@
-# lab7
+# lab6
 tasks 4, 5, 6, 7
 
 task 4 - their game
